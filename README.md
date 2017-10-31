@@ -1,2 +1,3 @@
-# BotEBT
-instagram @Mkhadaffy18
+git clone https:/github.com/mkhadaffy/BotEBT
+
+Bot Author By Muhammad Khadaffy 
