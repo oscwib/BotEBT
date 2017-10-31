@@ -1,5 +1,2 @@
-git clone https:/github.com/mkhadaffy/BotEBT
-
-Bot Author By Muhammad Khadaffy 
-
-Bot Support By EXTREME BOT TEAM
+# BotToby
+git clone https://github.com/T0byG74/BotToby
