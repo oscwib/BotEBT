@@ -1,2 +1,3 @@
-# BotToby
-git clone https://github.com/T0byG74/BotToby
+# Bot EBT
+git clone https://github.com/mkhadaffy/BotEBT
+
