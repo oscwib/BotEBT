@@ -28,11 +28,11 @@ sys.setdefaultencoding('utf-8')
 # album = None
 # image_path = 'tmp/tmp.jpg'
 
-helpMessage =""" BOT SUPPORTED By EBT
+helpMessage =""" BOT SUPPORTED By OBT
 
 ~Command Untuk Member~
 => Bot Creator
-=> EBT say
+=> OBT say
 => GCreator
 => .music
 => .Youtube
@@ -51,7 +51,7 @@ helpMessage =""" BOT SUPPORTED By EBT
 => Cancel
 => Gn
 => Gcreator:inv
-=> EBT out
+=> OBT out
 => Gift
 => respon
 => Tag all
@@ -65,7 +65,7 @@ helpMessage =""" BOT SUPPORTED By EBT
 => Nk
 => Vk
 
-SUPPORT BY **EXPERT TEAM BOT**
+SUPPORT BY **OBELIX TEAM BOT**
 """
 KAC=[cl,ki,kk,kc]
 mid = cl.getProfile().mid
